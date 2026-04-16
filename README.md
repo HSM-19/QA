@@ -1,7 +1,7 @@
 TESTS CASE SIMPLE
 
-TEST LOGIN CORRECT OK
+1. Test login : OK
 
-PROCHAINE ETAPE : 
+2. Prochaine etape : 
 -tester mauvais login
 -faire mini projet avec plusieurs tests
